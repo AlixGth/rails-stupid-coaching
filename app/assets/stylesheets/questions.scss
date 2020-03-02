@@ -1,0 +1,11 @@
+
+body {
+  background: #F4F4F4; // Using this variable
+}
+
+a {
+  color: black;
+  &:hover {
+    color: blue;
+  }
+}
